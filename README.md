@@ -12,3 +12,4 @@
 ## 已转换翻译源
 
  - source001 [https://www.nature.com/nature.rss](https://www.nature.com/nature.rss) -> [nature.xml](rss/nature.xml)
+ - source002 [http://feeds.aps.org/rss/recent/prl.xml](http://feeds.aps.org/rss/recent/prl.xml) -> [prl.xml](rss/prl.xml)
